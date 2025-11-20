@@ -22,6 +22,7 @@ A console-based, object-oriented Java quiz application with:
 ## File Format for `questions.txt`
 
 Each line:
+Question Text|Option1|Option2|Option3|Option4|CorrectOptionIndex
 
 ## Author
 Aakash Bose ✌️
