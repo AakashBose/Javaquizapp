@@ -1,0 +1,28 @@
+What is the capital of France?|Berlin|Paris|Rome|Madrid|1
+Which language runs in a web browser?|Java|C|Python|JavaScript|3
+Who developed Java?|James Gosling|Dennis Ritchie|Guido van Rossum|Bjarne Stroustrup|0
+Which of these is not an OOP concept in Java?|Encapsulation|Inheritance|Polymorphism|Compilation|3
+Which keyword is used to inherit a class in Java?|implement|extends|inherits|super|1
+Which method is the entry point of a Java program?|start()|main()|run()|init()|1
+Which company owns the Java programming language as of now?|Microsoft|Oracle|Google|IBM|1
+What is the default value of a boolean variable in Java?|true|false|null|0|1
+Which Java keyword is used to create an object?|create|new|object|instance|1
+Which data type is used to create a variable that should store text?|char|String|int|float|1
+When did the Japanese occupation of Korea begin?|1895|1910|1931|1945|1
+What was the name of the treaty that formalized Japan's annexation of Korea?|Treaty of Shimonoseki|Treaty of Portsmouth|Japan-Korea Annexation Treaty|Treaty of Versailles|2
+During the Japanese occupation, what was one major policy imposed on Koreans?|Mandating English education|Forbidding rice farming|Forced adoption of Japanese names|Encouraging Buddhism|2
+Who was the first Roman Emperor?|Julius Caesar|Augustus|Nero|Caligula|1
+Which Roman structure was built to host gladiatorial games?|Pantheon|Colosseum|Forum|Circus Maximus|1
+In which year did the Western Roman Empire officially fall?|410 AD|476 AD|500 AD|395 AD|1
+Who was the first Governor-General of British India?|Warren Hastings|Robert Clive|Lord Mountbatten|Lord Curzon|0
+Which movement aimed at self-rule for India began in 1885?|Indian National Congress|Quit India Movement|Swadeshi Movement|Non-Cooperation Movement|0
+Who was the last Viceroy of British India?|Lord Dalhousie|Lord Mountbatten|Lord Wellesley|Lord Ripon|1
+Which battle marked the end of the Napoleonic Wars?|Battle of Trafalgar|Battle of Waterloo|Battle of Leipzig|Battle of Austerlitz|1
+Who was Napoleon’s greatest rival among European leaders?|Duke of Wellington|Otto von Bismarck|Winston Churchill|Joseph Stalin|0
+Which country did Napoleon invade in 1812, leading to disastrous consequences?|Russia|Spain|Italy|Austria|0
+Which era in Japanese history was known for constant samurai warfare?|Meiji Period|Edo Period|Sengoku Period|Heian Period|2
+Which famous daimyo attempted to unify Japan during the Sengoku period?|Tokugawa Ieyasu|Oda Nobunaga|Toyotomi Hideyoshi|Saigo Takamori|1
+Which battle in 1600 effectively ended the Sengoku period?|Battle of Sekigahara|Battle of Osaka|Battle of Uji|Battle of Shiroyama|0
+After the Qing dynasty fell in 1912, what was the period of divided regional rule in China called?|Ming Restoration|Warlord Era|Taiping Rebellion|Boxer Rebellion|1
+Which Chinese leader tried to unify China during the Warlord Era?|Mao Zedong|Yuan Shikai|Chiang Kai-shek|Sun Yat-sen|2
+The Warlord Era in China lasted roughly between which years?|1916-1928|1900-1910|1945-1949|1937-1945|0
